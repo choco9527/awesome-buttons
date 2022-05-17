@@ -1,0 +1,22 @@
+{
+  "name": "awesome-buttons",
+  "version": "1.0.3",
+  "description": "cool button style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "button",
+    "style",
+    "awesome",
+    "cool",
+    "css"
+  ],
+  "author": "choco9527",
+  "license": "ISC",
+  "dependencies": {
+    "fabric": "^4.4.0",
+    "jquery": "^3.6.0"
+  }
+}
